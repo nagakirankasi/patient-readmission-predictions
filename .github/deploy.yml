@@ -1,1 +1,21 @@
+name: Deploy to AWS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Deploy to AWS Lambda
+        run: |
+          zip -r api_lambda.zip api/
+          aws lambda update-function-code \
+            --function-name PredictReadmission \
+            --zip-file fileb://api_lambda.zip
 
