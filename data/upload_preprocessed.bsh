@@ -1,0 +1,1 @@
+aws s3 cp data/processed/readmissions.csv s3://my-readmissions-bucket/
