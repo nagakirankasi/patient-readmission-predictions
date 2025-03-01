@@ -1,5 +1,5 @@
 
-# Project Report: Predicting Patient Readmissions
+# Predicting Patient Readmissions
 
 ## **1. Introduction**
 ### **1.1 Project Overview**
@@ -126,3 +126,7 @@ The **Predicting Patient Readmissions** project successfully demonstrates how ma
 🔹 Scale the deployment for broader adoption.  
 
 ---
+### **References**
+- Nationwide Readmissions Database (NRD)
+https://hcup-us.ahrq.gov/nrdoverview.jsp
+- https://medicine.yale.edu/news-article/when-used-effectively-discharge-summaries-reduce-hospital-readmissions/
