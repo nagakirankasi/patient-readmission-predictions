@@ -98,7 +98,7 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 ### 5️⃣ Deployment Guide
 Refer to `deployment/README.md` for AWS deployment steps.
 
-![HL Flow](./main/assets/images/patient_readmission_prediction_HL.png)
+![HL Flow](assets/images/patient_readmission_prediction_HL.png)
 
 ## 📜 License
 This project is licensed under the MIT License.
