@@ -75,7 +75,7 @@ This project aims to predict patient readmissions using machine learning models.
 ### 2️⃣ Setup
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/patient-readmission-prediction.git
+git clone https://github.com/nagakirankasi/patient-readmission-prediction.git
 cd patient-readmission-prediction
 ```
 
