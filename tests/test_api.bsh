@@ -1,0 +1,3 @@
+curl -X POST "https://API_ID.execute-api.us-east-1.amazonaws.com/prod/predict" \
+     -H "Content-Type: application/json" \
+     -d '{"features": [1, 0, 30, 1, 0.5, 2, 1]}'
