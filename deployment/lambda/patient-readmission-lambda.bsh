@@ -1,0 +1,8 @@
+aws lambda create-function \
+    --function-name PredictReadmission \
+    --runtime python3.8 \
+    --role arn:aws:iam::123456789012:role/LambdaExecutionRole \
+    --handler api.app.lambda_handler \
+    --timeout 15 \
+    --memory-size 512 \
+    --zip-file fileb://api_lambda.zip
