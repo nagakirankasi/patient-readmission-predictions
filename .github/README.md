@@ -83,7 +83,7 @@ The **Predicting Patient Readmissions** project leverages machine learning to id
 | Phase 4 | Integration with Hospital Systems | 2 Months |
 | Phase 5 | Model Monitoring & Optimization | Ongoing |
 
-![HL Flow](assets/images/patient_readmission_prediction_HL.png)
+
 
 ### **6.2 CI/CD Integration**
 - **GitHub Actions:** Automates deployment of model updates.
