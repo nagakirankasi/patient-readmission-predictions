@@ -1,2 +1,1 @@
-# readmission-prediction
-nagakirankasi.github.io/readmission-prediction
+# Patients Readmissions-prediction
